@@ -61,3 +61,5 @@ domainObjectName：在项目中Model类名
 > 我打包的generator.xml 、内置我默认配置，可改成你对应的配置就行！
 
 **大功告成！**
+
+欢迎访问个人博客：[http://www.liujilu.com](http://www.liujilu.com)
